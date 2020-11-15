@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_message">Bonjour tous le monde</string>
+    <string name="app_name">Lab4</string>
+    <string name="top_message">Regardez mon GUI!</string>
+    <string name="ButtonText">Cliquez ici!</string>
+    <string name="checkbox">Regarde ca!</string>
+    <string name="switchOn">L\'interrupteur Marche/Arrêt </string>
+    <string name="editText">Écrivez ici</string>
+    <string name="toast_message">Voici plus d\'informations</string>
+    <string name="hint">Continuez à taper</string>
+    <string name="switch_info">L\'interrupteur est maintenant activé</string>
+
+
+    <string name="textAddress">Entrez votre addresse email: </string>
+    <string name="typeAddress">Tapez votre email ici</string>
+    <string name="addressHint">john@example.com</string>
+    <string name="passText">Tapez votre mot de passe: </string>
+    <string name="loginButton">Connexion</string>
+    <string name="profileText">Votre profil</string>
+    <string name="nameText">Votre nom: </string>
+    <string name="typeName">Entrez votre nom</string>
+    <string name="nameHint">John Smith</string>
+    <string name="emailText">Votre email: </string>
+    <string name="typeEmail">Entrer votre email</string>
+    <string name="pictureText">Ta photo</string>
+    <string name="clickAbovePicture">Cliquez sur le bouton ci-dessus pour prendre une photo</string>
+
+
+    <string name="chatButton">Aller Discuter</string>
+    <string name="sendButton">Envoyer</string>
+    <string name="receiveButton">Recevoir</string>
+    <string name="typeHint">Écrivez ici</string>
+
+
+</resources>
