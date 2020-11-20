@@ -17,7 +17,6 @@ public class ProfileActivity extends AppCompatActivity {
     EditText email;
     ImageButton mImageButton;
 
-    @SuppressLint("QueryPermissionsNeeded")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

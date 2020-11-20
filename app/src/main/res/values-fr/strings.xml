@@ -33,5 +33,9 @@
     <string name="receiveButton">Recevoir</string>
     <string name="typeHint">Écrivez ici</string>
 
+    <string name="finishButton"></string>
+    <string name="messageHere"></string>
+    <string name="idequals"></string>
+
 
 </resources>
